@@ -1,7 +1,6 @@
 @echo off
 
-
-:: Change directory to where your Java file is located
+:: Change directory to sorce code folder
 cd src
 
 :: Compile the Java file
