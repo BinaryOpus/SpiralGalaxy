@@ -24,9 +24,9 @@ The resolution of the galaxy can be changed with the arrow keys.
 
 Clone the repository:
 
-    git clone https:
-    cd fol
+    git clone https://github.com/BinaryOpus/SpiralGalaxy.git
+    cd SpiralGalaxy
 
-Build the project on Windows:
+Build the project and run it on Windows:
 
-    gradlew.bat build
+    run.bat
