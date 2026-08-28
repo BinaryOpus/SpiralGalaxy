@@ -12,10 +12,13 @@ This project is a very simple simulation/animation of a disc shaped galaxy, like
 
 ## Demo
 
-[Add GIF/video/screenshot here]
+![SpeedDemo](Assets/SpiralGalaxySpeedDemo.gif)
 
-The example demonstrates a menu that can be dragged horizontally
-to reveal additional panels.
+The rotational speed of the galaxy can be changed by moving he slider.
+
+![SizeDemo](Assets/SpiralGalaxySizeDemo.gif)
+
+The resolution of the galaxy can be changed with the arrow keys.
 
 ## Building
 
