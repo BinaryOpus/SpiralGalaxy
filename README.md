@@ -101,7 +101,7 @@ Alternatively, compile the source files manually:
     javac Main/*.java View/*.java Assets/*.java Utilities/*.java Controller/*.java
     java Main/Main
 
-🎯 Project Goals
+## 🎯 Project Goals
 
 This project was created as an exploration of:
 
@@ -114,10 +114,10 @@ This project was created as an exploration of:
 
 The goal was to create a visually appealing galaxy effect using a relatively small amount of code and without relying on external graphics libraries.
 
-📊 Technical Notes
+## 📊 Technical Notes
 
 The current implementation focuses on visualisation rather than astrophysical accuracy. The galaxy is a procedural animation designed to resemble a rotating spiral galaxy rather than a physically accurate simulation of gravitational interactions. This makes the project lightweight and suitable for experimenting with procedural graphics and real-time rendering.
 
-📜 License
+## 📜 License
 
 This project is licensed under the terms of the MIT License.
